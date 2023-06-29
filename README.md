@@ -1,2 +1,2 @@
 # EVNC
-Escuela de vehiculos NO conencionales
+Escuela de vehiculos NO convencionales
